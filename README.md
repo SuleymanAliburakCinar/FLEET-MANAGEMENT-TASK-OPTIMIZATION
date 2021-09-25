@@ -1,1 +1,1 @@
-# deneme
+# Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bitirme Projesi
